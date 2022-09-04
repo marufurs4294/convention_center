@@ -1,0 +1,24 @@
+.our-package h4{
+    font-weight: bold;
+}
+.our-package li{
+padding-bottom: 5px;
+color: gray;
+}
+.our-package span{
+    padding-right: 5px;
+}
+.our-package span i{
+    background-color: rgb(231, 224, 246);
+    padding: 3px;
+    border-radius: 50%;
+}
+.spacial-card{
+   bottom:25px;
+}
+.spacial-card li{
+    color: #fff;
+}
+.spacial-card li span i{
+    background-color: rgb(77, 126, 232);
+}
